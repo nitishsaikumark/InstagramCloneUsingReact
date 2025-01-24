@@ -111,7 +111,7 @@ An Instagram clone app written in Typescript that utilises Next.js as a framewor
 
 1. Clone the repository to your local folder of choice
    ```sh
-[https://github.com/nitishsaikumark/InstagramCloneUsingReact]
+    https://github.com/nitishsaikumark/InstagramCloneUsingReact
    ```
    
 <br/>
